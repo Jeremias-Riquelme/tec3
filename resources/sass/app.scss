@@ -1,0 +1,16 @@
+// Fonts
+//@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+//@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+.navbar {
+    color: #ffffff; /* establece el color de fuente en blanco */
+    text-shadow: none; /* elimina el efecto fumado en la fuente */
+  }
+  .navbar-nav .nav-link {
+    color: #ffffff; /* establece el color de fuente en blanco */
+    text-shadow: none; /* elimina el efecto fumado en la fuente */
+  }
